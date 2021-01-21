@@ -24,7 +24,7 @@
 		"react-ga": "^3.1.2",
 		"react-ios-pwa-prompt": "^1.8.0",
 		"skeleton-css": "^2.0.4",
-		"socket.io": "^2.3.0",
+		"socket.io": "^2.4.0",
 		"sweetalert2": "^9.17.2"
 	},
 	"devDependencies": {
